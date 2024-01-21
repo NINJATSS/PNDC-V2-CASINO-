@@ -100,20 +100,20 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>PNDC SOLANA 👋</h1>
         <p>
           A fair, simple and decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liqudity
+        <button onClick={() => window.open('https://birdeye.so/token/vSYAPufpX2a4HpnkXguuoTznA5r2yZan8yP2RGnkvKm?chain=solana', '_blank')}>
+          💸 BUY PNDC
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://twitter.com/DRAGONSOL2024', '_blank')}>
+          👨‍💻 GOKU TWITTER
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
-          💬 Discord
+        <button onClick={() => window.open('https://twitter.com/Kingsol_69', '_blank')}>
+          💬 TWITTER
         </button>
       </Buttons>
     </Welcome>
