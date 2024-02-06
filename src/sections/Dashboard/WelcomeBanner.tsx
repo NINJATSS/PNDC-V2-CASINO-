@@ -37,7 +37,7 @@ const Buttons = styled.div`
 `
 
 const Welcome = styled.div`
-    border-radius: 10px;
+  border-radius: 10px;
   position: relative;
   overflow: hidden;
   display: flex;
