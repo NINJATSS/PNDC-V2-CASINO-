@@ -4,7 +4,7 @@
 
 :root {
   --background-color: #0b0b0e;
-  --text-color: #ffffff;
+  --text-color: #17cf11;
 
   --gamba-ui-border-radius: 10px;
 
@@ -25,7 +25,7 @@ body, input, button, textarea, pre {
   font-size: 16px;
 }
 
-h1, h2p { color: #07ab07;
+h1, h2p { color: #17cf11;
   text-shadow:
     3px 3px 0 #000,
     -3px 3px 0 #000,
