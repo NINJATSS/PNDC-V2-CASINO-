@@ -25,9 +25,14 @@ body, input, button, textarea, pre {
   font-size: 16px;
 }
 
-h1, h2 {
+h1, h2p { color: #07ab07;
+  text-shadow:
+    3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
   margin: 0;
-}
+        }
 
 body {
   background: var(--background-color);
