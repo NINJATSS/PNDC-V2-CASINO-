@@ -63,7 +63,7 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>PNDC SOLANA 👋</h1>
+        <h1>PNDC SOLANA 🤠</h1>
         <p>
           Welcome to DragonSol and PNDC solana casino, 100% of the funds will be used to buy $PNDC and airdrop to holders. ( HOLDING A MIN OF 100B PNDC ) ENJOY AND DON'T GAMBLE WITH MORE THEN YOU CAN AFFORD TO LOSE
         </p>
@@ -75,8 +75,8 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://twitter.com/DRAGONSOL2024', '_blank')}>
           👨‍💻 GOKU TWITTER
         </button>
-        <button onClick={() => window.open('https://twitter.com/Kingsol_69', '_blank')}>
-          💬 TWITTER
+        <button onClick={() => window.open('https://discord.com/invite/kcaVfbcQXv', '_blank')}>
+          💬 DISCORD
         </button>
       </Buttons>
     </Welcome>
