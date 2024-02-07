@@ -66,7 +66,7 @@ export function WelcomeBanner() {
         <h1>PNDC SOLANA 👋</h1>
         <p>
           Welcome to DragonSol and PNDC solana casino, 100% of the funds will be used to buy $PNDC and airdrop to holders. ( HOLDING A MIN OF 100B PNDC ) ENJOY AND DON'T GAMBLE WITH MORE THEN YOU CAN AFFORD TO LOSE
-        </b>
+        </p>
       </div>
       <Buttons>
         <button onClick={() => window.open('https://birdeye.so/token/vSYAPufpX2a4HpnkXguuoTznA5r2yZan8yP2RGnkvKm?chain=solana', '_blank')}>
